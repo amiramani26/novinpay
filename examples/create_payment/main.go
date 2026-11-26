@@ -6,7 +6,7 @@ import (
 	"log"
 	"time"
 
-	novinpay "github.com/amiramani26/novinPay"
+	"github.com/amiramani26/novinpay"
 )
 
 func main() {

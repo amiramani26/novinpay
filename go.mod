@@ -1,3 +1,3 @@
-module github.com/amiramani26/novinPay
+module github.com/amiramani26/novinpay
 
 go 1.27.4
